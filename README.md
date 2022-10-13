@@ -28,4 +28,4 @@ Lastly, the pivot tables have been made and has been added to the dashboard.
 
 ## Features
 
-https://github.com/kuchbhiarnav/Bike-sales-dashboard/issues/1#issuecomment-1277046260
+![Features] (https://github.com/kuchbhiarnav/Bike-sales-dashboard/issues/1#issuecomment-1277046260)
