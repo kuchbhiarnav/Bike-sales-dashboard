@@ -26,6 +26,13 @@ This project deals with working on microsoft excel where I have treated the raw 
 Lastly, the pivot tables have been made and has been added to the dashboard.
 
 
-## Features
+## About The Features
 
 ![Features](https://user-images.githubusercontent.com/77193445/195508560-fab6c15b-f3da-4f37-9759-43ca722215d6.png)
+
+## Preprocessing
+
+In the preprocessing step, I treated the raw data by the following ways:
+- Checking for blank values
+- Removing the duplicates
+- Replacing the values of few features
