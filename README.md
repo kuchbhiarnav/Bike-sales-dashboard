@@ -1,4 +1,23 @@
-# Bike-sales-dashboard
+# Bike Sales Dashboard
+
+
+## Table of content
+
+- Demo
+- Overview
+- Features
+- Preprocessing
+- Use of Macros
+- Pivot Tables
+- Dashboard
+
+
+## Demo
+
+link:
+
+
+##Overview
 The bikes sales dashboard has been made using pivot tables and data from MS Excel. 
 Five sheets has been created including raw data, working sheet, macro copy, pivot table and dashboard.
 The dataset for the following project has been taken from Alex Freberg's Youtube channel Alex the Analyst.
