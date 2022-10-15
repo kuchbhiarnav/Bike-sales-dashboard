@@ -34,8 +34,7 @@ Lastly, the pivot tables have been made and has been added to the dashboard.
 
 In the preprocessing step, I treated the raw data by the following ways:
 - Checking for blank values
-
 - Removing the duplicates
 - Replacing the values of few features
-
+![preprocessing](https://user-images.githubusercontent.com/77193445/195999147-62a03b7b-bc91-424b-be48-55c8d305b1e8.png)
 
