@@ -4,15 +4,11 @@
 ## Table of content
 - Demo
 - Overview
-- Features
+- About The Features
 - Preprocessing
 - Use of Macros
-- Pivot Tables
-- Dashboard
-
-
-## Demo
-link:
+- Working on Pivot Tables
+- Assembling everything in the Dashboard
 
 
 ## Overview
@@ -33,8 +29,13 @@ Lastly, the pivot tables have been made and has been added to the dashboard.
 ## Preprocessing
 
 In the preprocessing step, I treated the raw data by the following ways:
-- Checking for blank values
+- Checking for blank values using filters
 - Removing the duplicates
 - Replacing the values of few features
 ![preprocessing](https://user-images.githubusercontent.com/77193445/195999147-62a03b7b-bc91-424b-be48-55c8d305b1e8.png)
 
+## Working on Pivot Tables
+
+![pivot tables](https://user-images.githubusercontent.com/77193445/196002153-188673b4-86b5-4530-8609-a0bc082bff46.png)
+
+## Assembling everything in the Dashboard
