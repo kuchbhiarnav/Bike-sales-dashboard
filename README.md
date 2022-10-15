@@ -39,3 +39,5 @@ In the preprocessing step, I treated the raw data by the following ways:
 ![pivot tables](https://user-images.githubusercontent.com/77193445/196002153-188673b4-86b5-4530-8609-a0bc082bff46.png)
 
 ## Assembling everything in the Dashboard
+![Dashboard](https://user-images.githubusercontent.com/77193445/196002653-7fadb111-0f90-465a-b4e5-9e61fa44dbb9.png)
+
