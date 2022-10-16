@@ -11,6 +11,9 @@
 - Assembling everything in the Dashboard
 
 
+## Demo
+https://user-images.githubusercontent.com/77193445/196021422-4bacdebf-2500-456a-bfe4-74b30f8f9666.mp4
+
 ## Overview
 
 The bikes sales dashboard has been made using pivot tables and data from MS Excel. 
