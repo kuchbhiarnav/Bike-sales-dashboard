@@ -37,6 +37,10 @@ In the preprocessing step, I treated the raw data by the following ways:
 - Replacing the values of few features
 ![preprocessing](https://user-images.githubusercontent.com/77193445/195999147-62a03b7b-bc91-424b-be48-55c8d305b1e8.png)
 
+
+## Use of Macros
+
+
 ## Working on Pivot Tables
 
 ![pivot tables](https://user-images.githubusercontent.com/77193445/196002153-188673b4-86b5-4530-8609-a0bc082bff46.png)
